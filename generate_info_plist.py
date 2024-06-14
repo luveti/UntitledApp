@@ -19,6 +19,7 @@ plist = {
     'CFBundleSignature': '????',
     'CFBundleVersion': '1',
     'LSRequiresIPhoneOS': True,
+    'UILaunchScreen': { 'UIImageName': '' },
     'UISupportedInterfaceOrientations': ['UIInterfaceOrientationPortrait', 'UIInterfaceOrientationPortraitUpsideDown', 'UIInterfaceOrientationLandscapeLeft', 'UIInterfaceOrientationLandscapeRight']
 }
 
